@@ -1,6 +1,6 @@
 # Side Project
 This is my repository for my "Pygame Tutorial" project, 
-the second project that I made during Base Camp Coding Academy.
+the fifth project that I made during Base Camp Coding Academy.
 
 ## Pygame Tutorial Project
 This was a YouTube tutorial project that I used to get aquainted with the `Pygame` module.
